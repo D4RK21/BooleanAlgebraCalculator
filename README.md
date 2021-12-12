@@ -4,9 +4,9 @@ Boolean Algebra Calculator written on _**C#**_ using _**RPN**_ and _**Shunting Y
 
 ## ✅ Description
 
-This calculator can use your own set or already declarated one.
+This calculator **receives formula**, **calculates** it and **displays sequencing**.
 
-It is also possible to enter your own **Universal set** or automatically generate it _(Union of all sets)_.
+It is also possible to enter **infinite** number of variables.
 
 Calculator supports **brackets** and **sequence of operations**!
 
