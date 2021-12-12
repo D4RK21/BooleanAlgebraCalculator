@@ -1,0 +1,14 @@
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\bin\Debug\netcoreapp3.1\BooleanAlgebra.exe
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\bin\Debug\netcoreapp3.1\BooleanAlgebra.deps.json
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\bin\Debug\netcoreapp3.1\BooleanAlgebra.runtimeconfig.json
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\bin\Debug\netcoreapp3.1\BooleanAlgebra.runtimeconfig.dev.json
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\bin\Debug\netcoreapp3.1\BooleanAlgebra.dll
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\bin\Debug\netcoreapp3.1\BooleanAlgebra.pdb
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\obj\Debug\netcoreapp3.1\BooleanAlgebra.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\obj\Debug\netcoreapp3.1\BooleanAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\obj\Debug\netcoreapp3.1\BooleanAlgebra.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\obj\Debug\netcoreapp3.1\BooleanAlgebra.AssemblyInfo.cs
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\obj\Debug\netcoreapp3.1\BooleanAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\obj\Debug\netcoreapp3.1\BooleanAlgebra.dll
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\obj\Debug\netcoreapp3.1\BooleanAlgebra.pdb
+C:\Users\админ\Desktop\NURE\BooleanAlgebra\obj\Debug\netcoreapp3.1\BooleanAlgebra.genruntimeconfig.cache
