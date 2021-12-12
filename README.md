@@ -12,7 +12,7 @@ Calculator supports **brackets** and **sequence of operations**!
 
 ## 📸 Example
 
-![1](https://user-images.githubusercontent.com/81447820/145732676-8b847f8f-373e-475f-a342-ca5319c5300b.png)
+![1](https://user-images.githubusercontent.com/81447820/145733205-b0e16572-b792-4c25-9b37-632c6c49932e.png)
 
 
 ##  ⚙️ Operations
